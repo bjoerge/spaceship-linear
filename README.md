@@ -1,7 +1,7 @@
 🚀 spaceship-linear
 ----
 
-[Spaceship prompt](https://spaceship-prompt.sh/) section that shows the title of any issue associated with the current
+[Spaceship prompt](https://spaceship-prompt.sh/) section that shows the title of any [Linear](https://linear.app/) issue associated with the current
 branch
 
 ![Screenshot](screenshot.png)
